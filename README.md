@@ -11,7 +11,7 @@
 
 Transform your regional CSV data into stunning, interactive bar charts with just a few lines of code!
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#%EF%B8%8Fconfiguration) • [License](#-license)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#%EF%B8%8F-configuration) • [License](#-license)
 
 </div>
 
