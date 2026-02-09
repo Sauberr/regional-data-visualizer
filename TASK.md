@@ -1,9 +1,9 @@
-Відобразити дані у вигляді bar chart з CSV файлу в Python проекті.
+Display data as a bar chart from a CSV file in a Python project.
 
-Посилання на файл: -
+Link to the file: -
 
-Після виконання потрібно:
+After execution, you need to:
 
-Надати посилання на проект для перегляду.
+Provide a link to the project for viewing.
 
-Надати посилання на репозиторій з кодом.
+Provide a link to the repository with the code.
