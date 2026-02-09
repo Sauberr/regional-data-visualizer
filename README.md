@@ -169,16 +169,6 @@ regional-data-visualizer/
 └── .gitignore          # Git ignore rules
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -196,20 +186,5 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2026 Dmitriy Birilko
-
-## 👤 Author
-
-**Dmitriy Birilko**
-
-- GitHub: [@Sauberr](https://github.com/Sauberr)
-
-## 🌟 Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
-<div align="center">
-Made with ❤️ and Python
-</div>
+## 📞 Contact 
+To contact the author of the project, write to email dmitriybirilko@gmail.com
