@@ -181,10 +181,3 @@ regional-data-visualizer/
 
 **Issue:** Chart doesn't open in browser
 - **Solution:** Check if a firewall is blocking the local server, or manually open the HTML file that Plotly generates
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact 
-To contact the author of the project, write to email dmitriybirilko@gmail.com
