@@ -1,3 +1,5 @@
+
+
 # 📊 Regional Data Visualizer
 
 <div align="center">
@@ -11,7 +13,7 @@
 
 Transform your regional CSV data into stunning, interactive bar charts with just a few lines of code!
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-%EF%B8%8Fconfiguration) • [License](#-license)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [License](#-license)
 
 </div>
 
@@ -169,6 +171,16 @@ regional-data-visualizer/
 └── .gitignore          # Git ignore rules
 ```
 
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -181,3 +193,25 @@ regional-data-visualizer/
 
 **Issue:** Chart doesn't open in browser
 - **Solution:** Check if a firewall is blocking the local server, or manually open the HTML file that Plotly generates
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 Dmitriy Birilko
+
+## 👤 Author
+
+**Dmitriy Birilko**
+
+- GitHub: [@Sauberr](https://github.com/Sauberr)
+
+## 🌟 Show Your Support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+<div align="center">
+Made with ❤️ and Python
+</div>
